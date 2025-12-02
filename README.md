@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Showrisoumith/Java-Programming/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Showrisoumith/Java-Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Showrisoumith/Java-Programming/tree/master/1672-richest-customer-wealth) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Showrisoumith/Java-Programming/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3467-transform-array-by-parity](https://github.com/Showrisoumith/Java-Programming/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/Showrisoumith/Java-Programming/tree/master/3701-compute-alternating-sum) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/Showrisoumith/Java-Programming/tree/master/3701-compute-alternating-sum) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Showrisoumith/Java-Programming/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
