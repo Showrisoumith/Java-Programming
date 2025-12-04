@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Showrisoumith/Java-Programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Showrisoumith/Java-Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Showrisoumith/Java-Programming/tree/master/1672-richest-customer-wealth) |
 | [2574-left-and-right-sum-differences](https://github.com/Showrisoumith/Java-Programming/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Showrisoumith/Java-Programming/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Showrisoumith/Java-Programming/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
