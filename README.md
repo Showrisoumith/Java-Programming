@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Showrisoumith/Java-Programming/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Showrisoumith/Java-Programming/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Showrisoumith/Java-Programming/tree/master/2652-sum-multiples) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Showrisoumith/Java-Programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Showrisoumith/Java-Programming/tree/master/3516-find-closest-person) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Showrisoumith/Java-Programming/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Showrisoumith/Java-Programming/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Showrisoumith/Java-Programming/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Showrisoumith/Java-Programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Showrisoumith/Java-Programming/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/Showrisoumith/Java-Programming/tree/master/3701-compute-alternating-sum) |
 ## Sorting
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Showrisoumith/Java-Programming/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Showrisoumith/Java-Programming/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Showrisoumith/Java-Programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting Sort
 |  |
 | ------- |
