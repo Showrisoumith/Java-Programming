@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Showrisoumith/Java-Programming/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Showrisoumith/Java-Programming/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Showrisoumith/Java-Programming/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Showrisoumith/Java-Programming/tree/master/2769-find-the-maximum-achievable-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Showrisoumith/Java-Programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Showrisoumith/Java-Programming/tree/master/3516-find-closest-person) |
 ## String
