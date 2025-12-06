@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Showrisoumith/Java-Programming/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Showrisoumith/Java-Programming/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Showrisoumith/Java-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Showrisoumith/Java-Programming/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/2367-number-of-arithmetic-triplets) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Showrisoumith/Java-Programming/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Showrisoumith/Java-Programming/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Showrisoumith/Java-Programming/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Showrisoumith/Java-Programming/tree/master/3427-sum-of-variable-length-subarrays) |
