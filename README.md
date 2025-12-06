@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Showrisoumith/Java-Programming/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Showrisoumith/Java-Programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Showrisoumith/Java-Programming/tree/master/3467-transform-array-by-parity) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Showrisoumith/Java-Programming/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/Showrisoumith/Java-Programming/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
