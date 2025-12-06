@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Showrisoumith/Java-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Showrisoumith/Java-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Showrisoumith/Java-Programming/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Showrisoumith/Java-Programming/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Showrisoumith/Java-Programming/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Showrisoumith/Java-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Showrisoumith/Java-Programming/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Showrisoumith/Java-Programming/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Showrisoumith/Java-Programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Showrisoumith/Java-Programming/tree/master/0242-valid-anagram) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Showrisoumith/Java-Programming/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Showrisoumith/Java-Programming/tree/master/0344-reverse-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/2367-number-of-arithmetic-triplets) |
 ## Hash Table
