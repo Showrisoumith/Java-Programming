@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Showrisoumith/Java-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Showrisoumith/Java-Programming/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Showrisoumith/Java-Programming/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Showrisoumith/Java-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Showrisoumith/Java-Programming/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Showrisoumith/Java-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Showrisoumith/Java-Programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Showrisoumith/Java-Programming/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Showrisoumith/Java-Programming/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Showrisoumith/Java-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Showrisoumith/Java-Programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Showrisoumith/Java-Programming/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Showrisoumith/Java-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Showrisoumith/Java-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Showrisoumith/Java-Programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Showrisoumith/Java-Programming/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Showrisoumith/Java-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Showrisoumith/Java-Programming/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Showrisoumith/Java-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/Showrisoumith/Java-Programming/tree/master/3467-transform-array-by-parity) |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Showrisoumith/Java-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Showrisoumith/Java-Programming/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Showrisoumith/Java-Programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
