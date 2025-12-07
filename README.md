@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Showrisoumith/Java-Programming/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Showrisoumith/Java-Programming/tree/master/1732-find-the-highest-altitude) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Showrisoumith/Java-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Showrisoumith/Java-Programming/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/2367-number-of-arithmetic-triplets) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Showrisoumith/Java-Programming/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Showrisoumith/Java-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Showrisoumith/Java-Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2418-sort-the-people](https://github.com/Showrisoumith/Java-Programming/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/Showrisoumith/Java-Programming/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Showrisoumith/Java-Programming/tree/master/3467-transform-array-by-parity) |
