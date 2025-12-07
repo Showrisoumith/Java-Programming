@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Showrisoumith/Java-Programming/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Showrisoumith/Java-Programming/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Showrisoumith/Java-Programming/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Showrisoumith/Java-Programming/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Showrisoumith/Java-Programming/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Showrisoumith/Java-Programming/tree/master/1688-count-of-matches-in-tournament) |
 | [2974-minimum-number-game](https://github.com/Showrisoumith/Java-Programming/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Showrisoumith/Java-Programming/tree/master/3701-compute-alternating-sum) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Showrisoumith/Java-Programming/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Showrisoumith/Java-Programming/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
