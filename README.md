@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Showrisoumith/Java-Programming/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/Showrisoumith/Java-Programming/tree/master/2574-left-and-right-sum-differences) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Showrisoumith/Java-Programming/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Showrisoumith/Java-Programming/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Showrisoumith/Java-Programming/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Showrisoumith/Java-Programming/tree/master/2974-minimum-number-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Showrisoumith/Java-Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2418-sort-the-people](https://github.com/Showrisoumith/Java-Programming/tree/master/2418-sort-the-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Showrisoumith/Java-Programming/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Showrisoumith/Java-Programming/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Showrisoumith/Java-Programming/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Showrisoumith/Java-Programming/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Showrisoumith/Java-Programming/tree/master/0344-reverse-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/2367-number-of-arithmetic-triplets) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Showrisoumith/Java-Programming/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Showrisoumith/Java-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Showrisoumith/Java-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Showrisoumith/Java-Programming/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Showrisoumith/Java-Programming/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
