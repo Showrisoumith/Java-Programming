@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Showrisoumith/Java-Programming/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Showrisoumith/Java-Programming/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/Showrisoumith/Java-Programming/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Showrisoumith/Java-Programming/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Showrisoumith/Java-Programming/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Showrisoumith/Java-Programming/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Showrisoumith/Java-Programming/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Showrisoumith/Java-Programming/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Showrisoumith/Java-Programming/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Showrisoumith/Java-Programming/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Showrisoumith/Java-Programming/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3731-find-missing-elements](https://github.com/Showrisoumith/Java-Programming/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
 | ------- |
