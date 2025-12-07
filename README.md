@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Showrisoumith/Java-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Showrisoumith/Java-Programming/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Showrisoumith/Java-Programming/tree/master/1108-defanging-an-ip-address) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Showrisoumith/Java-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Showrisoumith/Java-Programming/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Showrisoumith/Java-Programming/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Showrisoumith/Java-Programming/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Showrisoumith/Java-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Showrisoumith/Java-Programming/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Showrisoumith/Java-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Showrisoumith/Java-Programming/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/Showrisoumith/Java-Programming/tree/master/2574-left-and-right-sum-differences) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Showrisoumith/Java-Programming/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Showrisoumith/Java-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
