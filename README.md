@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Showrisoumith/Java-Programming/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Showrisoumith/Java-Programming/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Showrisoumith/Java-Programming/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Showrisoumith/Java-Programming/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Showrisoumith/Java-Programming/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Showrisoumith/Java-Programming/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Showrisoumith/Java-Programming/tree/master/3432-count-partitions-with-even-sum-difference) |
