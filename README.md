@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Showrisoumith/Java-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Showrisoumith/Java-Programming/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Showrisoumith/Java-Programming/tree/master/1108-defanging-an-ip-address) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Showrisoumith/Java-Programming/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Showrisoumith/Java-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Showrisoumith/Java-Programming/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Showrisoumith/Java-Programming/tree/master/2678-number-of-senior-citizens) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Showrisoumith/Java-Programming/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Showrisoumith/Java-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Showrisoumith/Java-Programming/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Showrisoumith/Java-Programming/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Showrisoumith/Java-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Showrisoumith/Java-Programming/tree/master/2367-number-of-arithmetic-triplets) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Showrisoumith/Java-Programming/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Showrisoumith/Java-Programming/tree/master/1688-count-of-matches-in-tournament) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Showrisoumith/Java-Programming/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Showrisoumith/Java-Programming/tree/master/2169-count-operations-to-obtain-zero) |
 | [2974-minimum-number-game](https://github.com/Showrisoumith/Java-Programming/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Showrisoumith/Java-Programming/tree/master/3701-compute-alternating-sum) |
