@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Showrisoumith/Java-Programming/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Showrisoumith/Java-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Showrisoumith/Java-Programming/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/Showrisoumith/Java-Programming/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Showrisoumith/Java-Programming/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Showrisoumith/Java-Programming/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Showrisoumith/Java-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Showrisoumith/Java-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Showrisoumith/Java-Programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Showrisoumith/Java-Programming/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/Showrisoumith/Java-Programming/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Showrisoumith/Java-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Showrisoumith/Java-Programming/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Showrisoumith/Java-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
